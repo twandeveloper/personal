@@ -1,0 +1,100 @@
+ body{
+     background: #000;
+     color: #fff;
+ }
+ hr{
+     background-color: #fff;
+     border-color: #fff;
+ }
+.header{
+    background-image: url(./images/mac-open.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20% 100%;
+    color:  #fff;
+    position: relative;
+    height: 95vh;
+}
+.header h1{
+    text-align: center;
+}
+
+.centered{
+    margin: 25% auto;
+}
+
+.section{
+    background-image: url(./images/samuel-scalzo-665367-unsplash.jpg);
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+    font-size: 2vw;
+}
+
+.section h2{
+    margin: 20px;
+}
+
+.aboutme{
+    margin: 20px auto;
+}
+
+.content{
+    text-align: center;
+}
+
+.display{
+    margin: 10% auto;
+}
+
+.img1{
+    box-shadow: 1px 4px 5px 6px #d2dff4;
+    background-image: url(./images/glasses.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 250px;
+    min-width: 100px;
+}
+.img2{
+    box-shadow: 1px 4px 5px 6px #d2dff4;
+    background-image: url(./images/screen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 250px;
+}
+.img3{
+    box-shadow: 1px 4px 5px 6px #d2dff4;
+    background-image: url(./images/mac.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+.btn{
+    position: relative;
+    top: 110%;
+    right: 5%;
+}
+.btn2{
+    position: relative;
+    top: 110%;
+    left: 5%;
+}
+
+.contact{
+    background-image: url(./images/mac-desk.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 70% 40%;
+    color:  #fff;
+    position: relative;
+    height: 100vh;
+
+}
+
+.footer{
+    text-align: right;
+}
+
